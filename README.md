@@ -15,7 +15,7 @@
 
 ## Connect with Me
 - GitHub: [github.com/LagoonYt](https://github.com/LagoonYt)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/lloyd-kay-777a86283/))
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 Feel free to explore my repositories and projects. If you have any questions or suggestions, feel free to reach out. Let's connect and collaborate! 🌟
