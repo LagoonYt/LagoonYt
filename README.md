@@ -1,4 +1,4 @@
-# Hi there, I'm LagoonYt also known as lloyd kay! 👋
+# Hi there, I'm [Your Name]! 👋
 
 ## About Me
 - 🔭 I’m currently working on creating tools to simplify the development of Discord bots.
@@ -15,7 +15,7 @@
 
 ## Connect with Me
 - GitHub: [github.com/LagoonYt](https://github.com/LagoonYt)
-- LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/lloyd-kay-777a86283/))
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: [linkedin.com/in/lloyd-kay-777a86283/](https://www.linkedin.com/in/lloyd-kay-777a86283/)
+- Twitter: [@Lloydkay206](https://twitter.com/Lloydkay206)
 
 Feel free to explore my repositories and projects. If you have any questions or suggestions, feel free to reach out. Let's connect and collaborate! 🌟
