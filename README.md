@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Lagoon! 👋
 
 ## About Me
 - 🔭 I’m currently working on creating tools to simplify the development of Discord bots.
