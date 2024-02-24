@@ -9,7 +9,7 @@
 
 ## Technologies and Tools
 - Programming languages: JavaScript, Python, HTML, CSS
-- Frameworks and libraries: Node.js, Express.js, React.js
+- Frameworks and libraries: Node.js, Express.js
 - Databases: MongoDB, MySQL
 - Version control: Git, GitHub
 
